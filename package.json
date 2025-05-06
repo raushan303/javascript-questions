@@ -1,0 +1,16 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "index.html --open",
+    "build": "index.html"
+  },
+  "dependencies": {
+    "@babel/core": "7.23.2",
+    "babel-plugin-transform-remove-strict-mode": "0.0.2"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
